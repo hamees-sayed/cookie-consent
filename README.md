@@ -1,3 +1,3 @@
 # Cookie Consent
 
-[Live Site Preview](https://cookie-consent.netlify.app/)
+[Live Site Preview](https://cooky-consent.netlify.app/)
