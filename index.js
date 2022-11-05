@@ -13,7 +13,7 @@ modalCloseBtn.addEventListener('click', function(){
     modal.style.display = 'none'
 }) 
 
-declineBtn.addEventListener('mouseenter', function(){
+declineBtn.addEventListener('mouseover', function(){
     modalChoiceBtns.classList.toggle('modal-btns-reverse')
 }) 
 
